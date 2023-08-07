@@ -4,6 +4,7 @@ setup(
     name="tf_datachain",
     version="0.1.0",
     description="A local dataset loader based on tf.data input pipeline",
+    long_description=open('README.md').read(),
     author="Yiming Liu",
     author_email="YimingDesigner@gmail.com",
     package_dir={'':"src"},
